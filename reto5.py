@@ -1,5 +1,4 @@
-# Plantilla para desarrollar Reto 5
-#
+
 def leerArchivo():
     with open('data.csv', 'r') as datafile:
         linea= datafile.readline()
